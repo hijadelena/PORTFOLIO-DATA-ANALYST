@@ -1,9 +1,14 @@
 # 📊 Dashboard de Análisis Financiero
-## Sobre el Proyecto
+
+## Link a la visualizacion [https://www.behance.net/gallery/207160871/Financial-PowerBi-Dashboard-Project
 
 # 📊 Dashboard de Análisis Financiero
 
 ![Descripción del dashboard](dashboad.png)
+
+
+
+
 
 ## Sobre el Proyecto
 Este proyecto presenta un dashboard interactivo diseñado para analizar los beneficios financieros a lo largo de varios años. Se centra en proporcionar una visión clara y detallada de los ingresos, gastos, y beneficios por mes, país, segmento, y marca.
