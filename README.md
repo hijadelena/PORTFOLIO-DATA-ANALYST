@@ -73,7 +73,7 @@ Este repositorio es una muestra de mis proyectos en análisis de datos y diseño
 - **Usability Testing with Hotjar** (Coursera) | 2023/2025
 
 ## 📞 Contacto
-- **Portfolio:** [Aqui](https://luciatrujillo.framer.website/)
+- **Portfolio:** [Aqui](https://portfolioluciatrujillo.framer.website/)
 - **LinkedIn:** [Aqui](https://www.linkedin.com/in/lucia-trujillo/)
 - **Email:** luciitte@gmail.com
 - **Teléfono:** +34 666 389 243
