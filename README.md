@@ -118,6 +118,12 @@ Este portfolio refleja mi transición desde **UX/UI Design** hacia **Data Analyt
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+
+
+
 ## 👩‍💻 Sobre mí / About me  
 
 **ES:**  
