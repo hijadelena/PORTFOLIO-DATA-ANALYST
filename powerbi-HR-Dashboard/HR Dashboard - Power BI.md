@@ -29,7 +29,9 @@ Esto asegura una experiencia visual coherente y profesional, mejorando la interp
 👉 [Ver en Power BI](https://app.powerbi.com/view?r=eyJrIjoiMDc4YWJmMTYtNWI4ZS00ZDNlLWFhMzUtYWQxNWQzMTdkZjY4IiwidCI6Ijc3N2ZhZTQyLTIxMGQtNDQxOS1iOWM1LWNkYTk4ZDAyMGUxNyIsImMiOjl9)
 
 ## 📊 Preview
-*(Agregar aquí capturas en la carpeta `assets/`)*
+
+
+-
 HR-Dashboard/
 │
 ├── assets/                # Capturas del dashboard (ej: dashboard_home.png)
@@ -44,4 +46,5 @@ HR-Dashboard/
 - Power BI  
 - DAX  
 - JSON (theme)  
+
 
