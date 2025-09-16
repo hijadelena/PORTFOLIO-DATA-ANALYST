@@ -1,9 +1,18 @@
-# 📊 Portfolio de Análisis de Datos – Lucía Trujillo  
 
 Bienvenido/a a mi repositorio de proyectos de **Data Analysis & Data Science**.  
 Aquí encontrarás casos aplicados en **Python, SQL, NoSQL, Machine Learning, Power BI y Tableau**, donde combino exploración de datos, estadística, visualización y UX.  
 
 Este portfolio refleja mi transición desde **UX/UI Design** hacia **Data Analytics**, aplicando un enfoque **data-driven** en cada proyecto.  
+
+---
+
+## 🎯 Propósito y Alcance  
+
+Este portfolio demuestra mi recorrido profesional, desde fundamentos de bases de datos hasta implementaciones avanzadas de **Machine Learning** y **Business Intelligence**.  
+
+- **5 proyectos aplicados de análisis de datos** listos para producción.  
+- **3 proyectos de fundamentos** (SQL, NoSQL, estadística, práctica en Python).  
+- Cobertura de todo el **workflow analítico**: adquisición → limpieza → análisis → visualización → insights accionables.  
 
 ---
 
@@ -108,6 +117,19 @@ Este portfolio refleja mi transición desde **UX/UI Design** hacia **Data Analyt
 
 ---
 
+## 🧭 Complejidad y Progresión  
+
+| Proyecto                  | Data Volume | Técnicas | Herramientas | Impacto en negocio |
+|---------------------------|-------------|----------|--------------|--------------------|
+| Call Center Analytics     | 63k+        | Data Cleaning, EDA, KPI, FCR | Python, Tableau | Alto (optimización FCR) |
+| Housing Price Prediction  | Medio       | Regresión, Feature Eng., Métricas | Python, Scikit-learn | Medio (forecasting) |
+| Power BI Analysis         | Multi-dim.  | KPI, Storytelling, Dashboards | Power BI, DAX | Alto (insights financieros) |
+| FashionHub E-commerce     | eCommerce   | EDA, Segmentación | Python, Seaborn | Medio (insights de cliente) |
+| Estudio Estadístico       | Muestras    | Descriptiva, Inferencial | Python, Scipy | Bajo (aprendizaje) |
+| SQL / NoSQL / Extras      | Datasets    | Consultas, modelado, práctica | SQL, MongoDB | Bajo (fundamentos) |
+
+---
+
 ## 🚀 Tecnologías y Herramientas  
 
 - **Lenguajes / Languages:** Python, SQL  
@@ -116,13 +138,22 @@ Este portfolio refleja mi transición desde **UX/UI Design** hacia **Data Analyt
 - **Bases de datos / Databases:** MySQL, PostgreSQL, MongoDB  
 - **Otros / Others:** Jupyter Notebooks, Git/GitHub, DAX  
 
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
+---
 
+## 🌉 Transición UX → Data Analytics  
+
+Este portfolio muestra cómo mis **habilidades de UX/UI** fortalecen mi trabajo como analista:  
+
+- **User-Centered Data:** Call Center Analytics enfocado en métricas de experiencia (FCR, repeat calls).  
+- **Visual Storytelling:** Dashboards en Tableau y Power BI con insights claros y accionables.  
+- **Design Thinking aplicado a datos:** FashionHub analiza journey y comportamiento del cliente.  
+- **Problem Solving:** de la investigación de usuarios al análisis cuantitativo y cualitativo.  
+
+---
 
 ## 👩‍💻 Sobre mí / About me  
 
@@ -135,3 +166,4 @@ I am Lucía Trujillo, a UX/UI Designer transitioning into Data Analytics.
 I am passionate about turning data into actionable insights, building visual solutions, and connecting business + design + technology.  
 
 📬 [Conectemos en LinkedIn](https://www.linkedin.com/in/lucia-trujillo)  
+
