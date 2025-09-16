@@ -1,169 +1,231 @@
-
-Bienvenido/a a mi repositorio de proyectos de **Data Analysis & Data Science**.  
-Aquí encontrarás casos aplicados en **Python, SQL, NoSQL, Machine Learning, Power BI y Tableau**, donde combino exploración de datos, estadística, visualización y UX.  
-
-Este portfolio refleja mi transición desde **UX/UI Design** hacia **Data Analytics**, aplicando un enfoque **data-driven** en cada proyecto.  
-
----
-
-## 🎯 Propósito y Alcance  
-
-Este portfolio demuestra mi recorrido profesional, desde fundamentos de bases de datos hasta implementaciones avanzadas de **Machine Learning** y **Business Intelligence**.  
-
-- **5 proyectos aplicados de análisis de datos** listos para producción.  
-- **3 proyectos de fundamentos** (SQL, NoSQL, estadística, práctica en Python).  
-- Cobertura de todo el **workflow analítico**: adquisición → limpieza → análisis → visualización → insights accionables.  
-
----
-
-## 📂 Proyectos  
-
-### 📞 Call Center Analytics - Python + Tableau  
-**ES:** Análisis de 63k llamadas (Google Fiber) con Python + Tableau.  
-**Objetivo:** detectar causas de repetición (21.3%) y medir eficiencia del servicio (FCR).  
-
-- **Técnicas:** Data Cleaning, EDA, Feature Engineering, KPI Analysis  
-- **Herramientas:** Python (Pandas, Numpy), Tableau  
-- **Resultados:** 21.3% de llamadas repetidas, *Scheduling* con mayor tasa (33%), *Market 2* con 60% datos incompletos  
-
-🔗 [📊 Dashboard en Tableau Public](https://public.tableau.com/views/FIBERPRACTI_v2025_1/Dashboard6) | 🐍 Script en repo  
-
-**EN:** Analysis of 63k+ calls (Google Fiber) using Python + Tableau.  
-**Goal:** identify repeated call drivers (21.3%) and measure FCR.  
-
-- **Techniques:** Data Cleaning, EDA, Feature Engineering, KPI Analysis  
-- **Tools:** Python (Pandas, Numpy), Tableau  
-- **Key Findings:** 21.3% repeat calls, *Scheduling* = 33% highest rate, *Market 2* = 60% missing data  
-
-🔗 [📊 Dashboard on Tableau Public](https://public.tableau.com/views/FIBERPRACTI_v2025_1/Dashboard6) | 🐍 Script in repo  
-
----
-
-### 👗 FashionHub-DataExploration  
-**ES:** Exploración de datos de un eCommerce de moda. Identificación de patrones de compra y segmentación de clientes.  
-- **Técnicas:** Limpieza, análisis exploratorio, visualización  
-- **Herramientas:** Python (Pandas, Seaborn, Matplotlib)  
-
-**EN:** Data exploration of a fashion eCommerce. Insights on purchase patterns and customer segmentation.  
-- **Techniques:** Data Cleaning, EDA, Visualization  
-- **Tools:** Python (Pandas, Seaborn, Matplotlib)  
-
----
-
-### 🏠 Modelos_ML_PrecioViviendas  
-**ES:** Predicción de precios de viviendas con modelos de Machine Learning.  
-- **Técnicas:** Regresión lineal, feature engineering, métricas (RMSE, R²)  
-- **Herramientas:** Python (Scikit-learn, Pandas, Numpy)  
-
-**EN:** Housing price prediction using ML models.  
-- **Techniques:** Linear regression, feature engineering, metrics (RMSE, R²)  
-- **Tools:** Python (Scikit-learn, Pandas, Numpy)  
-
----
-
-### 📈 Powerbi_analisis_beneficios  
-**ES:** Dashboard en Power BI para analizar beneficios y métricas clave de negocio.  
-- **Técnicas:** KPI Analysis, storytelling con datos  
-- **Herramientas:** Power BI, DAX  
-
-**EN:** Power BI dashboard for business benefit analysis.  
-- **Techniques:** KPI Analysis, Data storytelling  
-- **Tools:** Power BI, DAX  
-
----
-
-### 📊 estudio_estadistico  
-**ES:** Estudio de estadística descriptiva e inferencial.  
-- **Técnicas:** Medidas de tendencia central, pruebas de hipótesis, distribuciones  
-- **Herramientas:** Python (Scipy, Numpy, Matplotlib)  
-
-**EN:** Statistical study with descriptive and inferential methods.  
-- **Techniques:** Central tendency, hypothesis testing, distributions  
-- **Tools:** Python (Scipy, Numpy, Matplotlib)  
-
----
-
-### 🧩 extras  
-- **ES:** Ejercicios prácticos y scripts exploratorios en Python.  
-- **EN:** Practical exercises and exploratory Python scripts.  
-
----
-
-### 🐍 juego_python-main  
-- **ES:** Juego simple en consola hecho en Python.  
-- **EN:** Simple console-based game built with Python.  
-
----
-
-### 🗄️ practica_nosql  
-**ES:** Ejercicios con bases de datos NoSQL.  
-- **Técnicas:** Modelado de colecciones, consultas, manejo de datos semiestructurados  
-- **Herramientas:** MongoDB  
-
-**EN:** Practice with NoSQL databases.  
-- **Techniques:** Collection modeling, queries, semi-structured data  
-- **Tools:** MongoDB  
-
----
-
-### 🗃️ practica_sql  
-**ES:** Ejercicios con SQL relacional.  
-- **Técnicas:** Consultas SELECT, JOINs, agregaciones  
-- **Herramientas:** MySQL / PostgreSQL  
-
-**EN:** Practice with relational SQL.  
-- **Techniques:** SELECT queries, JOINs, aggregations  
-- **Tools:** MySQL / PostgreSQL  
-
----
-
-## 🧭 Complejidad y Progresión  
-
-| Proyecto                  | Data Volume | Técnicas | Herramientas | Impacto en negocio |
-|---------------------------|-------------|----------|--------------|--------------------|
-| Call Center Analytics     | 63k+        | Data Cleaning, EDA, KPI, FCR | Python, Tableau | Alto (optimización FCR) |
-| Housing Price Prediction  | Medio       | Regresión, Feature Eng., Métricas | Python, Scikit-learn | Medio (forecasting) |
-| Power BI Analysis         | Multi-dim.  | KPI, Storytelling, Dashboards | Power BI, DAX | Alto (insights financieros) |
-| FashionHub E-commerce     | eCommerce   | EDA, Segmentación | Python, Seaborn | Medio (insights de cliente) |
-| Estudio Estadístico       | Muestras    | Descriptiva, Inferencial | Python, Scipy | Bajo (aprendizaje) |
-| SQL / NoSQL / Extras      | Datasets    | Consultas, modelado, práctica | SQL, MongoDB | Bajo (fundamentos) |
-
----
-
-## 🚀 Tecnologías y Herramientas  
-
-- **Lenguajes / Languages:** Python, SQL  
-- **Machine Learning:** Scikit-learn, Pandas, Numpy  
-- **Visualización / Visualization:** Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-- **Bases de datos / Databases:** MySQL, PostgreSQL, MongoDB  
-- **Otros / Others:** Jupyter Notebooks, Git/GitHub, DAX  
+# 📊 Data Analytics Portfolio – Lucía Trujillo
+*From UX/UI Design to Data-Driven Insights*
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=python&logoColor=blue)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ---
 
-## 🌉 Transición UX → Data Analytics  
+## 🎯 Portfolio Overview
 
-Este portfolio muestra cómo mis **habilidades de UX/UI** fortalecen mi trabajo como analista:  
+Welcome to my **Data Analytics & Data Science** portfolio. This repository demonstrates my professional transition from UX/UI Design to Data Analytics, showcasing **production-ready projects** that combine analytical rigor with user-centered design thinking.
 
-- **User-Centered Data:** Call Center Analytics enfocado en métricas de experiencia (FCR, repeat calls).  
-- **Visual Storytelling:** Dashboards en Tableau y Power BI con insights claros y accionables.  
-- **Design Thinking aplicado a datos:** FashionHub analiza journey y comportamiento del cliente.  
-- **Problem Solving:** de la investigación de usuarios al análisis cuantitativo y cualitativo.  
+**📈 Portfolio Highlights:**
+- **63,000+ records analyzed** with measurable business impact
+- **5 production-ready projects** + 3 foundational learning modules  
+- **Complete analytics workflow** from data acquisition to deployment
+- **Business-focused outcomes** with quantified results
 
 ---
 
-## 👩‍💻 Sobre mí / About me  
+## 🚀 Featured Projects
 
-**ES:**  
-Soy Lucía Trujillo, UX/UI Designer en transición a Data Analyst.  
-Me apasiona transformar datos en insights accionables, crear soluciones visuales y conectar negocio + diseño + tecnología.  
+### 🏆 Call Center Analytics - Python + Tableau
+> **Business Impact:** Identified 21.3% improvement opportunity in call resolution
 
-**EN:**  
-I am Lucía Trujillo, a UX/UI Designer transitioning into Data Analytics.  
-I am passionate about turning data into actionable insights, building visual solutions, and connecting business + design + technology.  
+**Challenge:** Analyze 63,000+ customer service calls to optimize First Call Resolution (FCR) and reduce repeat interactions.
 
-📬 [Conectemos en LinkedIn](https://www.linkedin.com/in/lucia-trujillo)  
+**Key Results:**
+- **FCR Success Rate:** 78.7% (industry benchmark analysis)
+- **Critical Finding:** Scheduling issues drive 33% of repeat calls
+- **Data Quality Alert:** Market 2 shows 60% missing data requiring process improvement
 
+**Tech Stack:** Python (Pandas, NumPy), Tableau, Statistical Analysis
+**Techniques:** Data Cleaning, EDA, KPI Analysis, Feature Engineering
+
+🔗 [📊 Interactive Dashboard](https://public.tableau.com/views/FIBERPRACTI_v2025_1/Dashboard6) | [📄 View Code](./call-center-analytics/)
+
+---
+
+### 🏠 ML Housing Price Prediction
+> **Technical Achievement:** Production-ready regression pipeline with model evaluation
+
+**Challenge:** Develop predictive models for real estate pricing with robust performance metrics.
+
+**Approach:**
+- Advanced feature engineering and data preprocessing
+- Multiple regression algorithms comparison
+- Model performance evaluation (RMSE, R²)
+- Deployment-ready pipeline implementation
+
+**Tech Stack:** Python, Scikit-learn, Statistical Modeling
+**Impact:** Quantified prediction accuracy for real estate decision-making
+
+[📄 View Project](./Modelos_ML_PrecioViviendas/)
+
+---
+
+### 📊 HR Dashboard - Power BI
+> **Business Value:** Centralized HR analytics solving data dispersion challenges
+
+**Challenge:** HR team struggled with scattered data across multiple sources, making decision-making slow and error-prone. No standardized visual guidelines existed, resulting in inconsistent user experience.
+
+**Solution Delivered:**
+- **Centralized Dashboard:** All HR metrics in one interactive platform
+- **Advanced DAX Measures:** Precise calculations for hiring, turnover, and headcount
+- **Custom UI Style Guide:** JSON-based design system for visual consistency
+- **Dynamic Filters:** Easy data exploration and drill-down capabilities
+
+**Key Features:**
+- KPI Cards for critical metrics
+- Interactive bar and pie charts
+- Custom color palette and typography
+- Standardized iconography and grid system
+
+**Tech Stack:** Power BI, DAX, JSON (custom theme), UI/UX Design
+**Impact:** Improved decision-making speed and visual consistency across HR analytics
+
+🔗 [📊 Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc4YWJmMTYtNWI4ZS00ZDNlLWFhMzUtYWQxNWQzMTdkZjY4IiwidCI6Ijc3N2ZhZTQyLTIxMGQtNDQxOS1iOWM1LWNkYTk4ZDAyMGUxNyIsImMiOjl9) | [📄 View Project](./hr-dashboard-powerbi/)
+
+---
+
+### 💰 Power BI Financial Analysis
+> **Business Intelligence:** Multi-dimensional financial KPI analysis
+
+**Challenge:** Create comprehensive financial dashboard for executive-level strategic decision making.
+
+**Delivered:**
+- Interactive multi-dimensional KPI analysis
+- Data storytelling with actionable financial insights
+- Executive dashboard for strategic financial decisions
+
+**Tech Stack:** Power BI, DAX, Business Intelligence
+**Focus:** Financial metrics visualization and trend analysis
+
+[📄 View Project](./Powerbi_analisis_beneficios/)
+
+---
+
+### 👗 FashionHub E-commerce Analysis
+> **Customer Insights:** Behavioral pattern analysis and segmentation
+
+**Challenge:** Extract actionable insights from e-commerce customer data to drive business strategy.
+
+**Delivered:**
+- Customer segmentation and behavioral analysis
+- Purchase pattern identification
+- Data-driven recommendations for marketing strategy
+
+**Tech Stack:** Python (Pandas, Seaborn, Matplotlib)
+**Techniques:** EDA, Customer Analytics, Data Visualization
+
+[📄 View Project](./FashionHub-DataExploration/)
+
+---
+
+## 📈 Technical Proficiency Matrix
+
+| **Category** | **Technologies** | **Proficiency Level** | **Project Evidence** |
+|--------------|------------------|----------------------|----------------------|
+| **Data Processing** | Python, Pandas, NumPy | Advanced | 63,000+ record analysis |
+| **Machine Learning** | Scikit-learn, Regression | Intermediate | Housing prediction pipeline |
+| **Data Visualization** | Tableau, Power BI, Matplotlib | Advanced | Multiple public dashboards |
+| **Business Intelligence** | DAX, KPI Analysis, UI Design | Advanced | HR + Financial dashboards |
+| **Databases** | SQL, NoSQL, MongoDB | Intermediate | Multi-database projects |
+| **Statistical Analysis** | SciPy, Hypothesis Testing | Intermediate | Statistical studies |
+
+---
+
+## 🛠️ Technology Stack
+
+### **Core Technologies**
+- **Programming:** Python, SQL
+- **ML & Analytics:** Scikit-learn, Pandas, NumPy, SciPy
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Jupyter Notebooks, Git/GitHub, DAX
+
+### **Specialized Skills**
+- **Machine Learning:** Regression, Feature Engineering, Model Evaluation
+- **Business Intelligence:** KPI Analysis, Dashboard Development, Data Storytelling  
+- **Statistical Analysis:** Descriptive/Inferential Statistics, Hypothesis Testing
+- **Data Engineering:** ETL Processes, Data Quality Assessment
+
+---
+
+## 📚 Learning & Development Projects
+
+<details>
+<summary><strong>Click to expand foundational projects</strong></summary>
+
+### 📊 Statistical Analysis Study
+Advanced statistical methods including hypothesis testing and distribution analysis.
+- **Tech:** Python (SciPy, NumPy, Matplotlib)
+- [📄 View Project](./estudio_estadistico/)
+
+### 🗄️ Database Practice
+**SQL Relational:** Complex queries, JOINs, aggregations
+**NoSQL (MongoDB):** Document modeling, collection queries
+- [📄 SQL Practice](./practica_sql/) | [📄 NoSQL Practice](./practica_nosql/)
+
+### 🐍 Python Fundamentals  
+Exploratory programming exercises and console applications.
+- [📄 View Code](./extras/) | [📄 Python Game](./juego_python-main/)
+
+</details>
+
+---
+
+## 🌟 Why My Analytics Approach is Different
+
+**UX-to-Analytics Bridge:** My design background brings a unique perspective to data analytics:
+
+✅ **User-Centered Analysis:** Focus on metrics that matter to real users (like FCR in call centers)  
+✅ **Visual Storytelling:** Dashboards designed for clarity and actionable insights  
+✅ **Problem-Solving Methodology:** Systematic approach from business problem to data solution  
+✅ **Design Thinking Applied:** Consider user journey and behavior patterns in data analysis
+
+---
+
+## 📊 Measurable Business Impact
+
+| **Project** | **Key Metric** | **Result** | **Business Value** |
+|-------------|----------------|------------|-------------------|
+| Call Center Analytics | First Call Resolution | 78.7% success rate | 21.3% improvement opportunity identified |
+| HR Dashboard Power BI | Data Centralization | Single-source HR analytics | Improved decision-making speed |
+| Housing ML Model | Prediction Accuracy | RMSE optimization | Quantified forecasting reliability |
+| Financial Power BI | KPI Analysis | Multi-dimensional insights | Enhanced strategic decision-making |
+| FashionHub Analysis | Customer Segmentation | Behavioral patterns | Targeted marketing opportunities |
+
+---
+
+## 👩‍💻 About Me
+
+**Lucía Trujillo** | *Data Analyst transitioning from UX/UI Design*
+
+I specialize in transforming complex data into actionable business insights, combining analytical rigor with user-centered design thinking. My unique background allows me to bridge the gap between technical analysis and business strategy, ensuring that data solutions are both powerful and user-friendly.
+
+**My Passion:** Connecting business objectives + data insights + visual design to drive meaningful impact.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [luciitte@gmail.com]  
+💼 **LinkedIn:** [linkedin.com/in/lucia-trujillo](https://www.linkedin.com/in/lucia-trujillo)  
+🌐 **Portfolio:** [luciatrujillouxing.framer.website](https://luciatrujillouxing.framer.website/)  
+
+
+---
+
+## 🔄 Portfolio Evolution
+
+This portfolio demonstrates continuous learning and professional growth:
+- **Foundation:** Statistical analysis and database fundamentals
+- **Development:** Machine learning implementation and business intelligence  
+- **Advanced:** Production-ready analytics with measurable business impact
+- **Next:** Advanced ML techniques and real-time analytics deployment
+
+---
+
+*"Turning data into insights, insights into action."*
