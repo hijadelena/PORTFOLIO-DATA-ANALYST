@@ -43,7 +43,7 @@ Welcome to my **Data Analytics & Data Science** portfolio. This repository demon
 **Tech Stack:** Python (Pandas, NumPy), Tableau, Statistical Analysis
 **Techniques:** Data Cleaning, EDA, KPI Analysis, Feature Engineering
 
-🔗 [📊 Interactive Dashboard](https://public.tableau.com/views/FIBERPRACTI_v2025_1/Dashboard6) | [📄 View Code](./call-center-analytics/)
+🔗 [📊 Interactive Dashboard](https://public.tableau.com/views/FIBERPRACTI_v2025_1/Dashboard6) | [📄 View Code](./call-center-analytics-python-tableau-main/)  
 
 ---
 
